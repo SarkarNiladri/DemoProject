@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-28T21:31:03 IST" name="Suite" finished-at="2023-07-28T21:31:26 IST" duration-ms="23194">
+  <suite started-at="2023-08-02T09:40:11 IST" name="Suite" finished-at="2023-08-02T09:40:36 IST" duration-ms="24798">
     <groups>
     </groups>
-    <test started-at="2023-07-28T21:31:03 IST" name="OnlineTest" finished-at="2023-07-28T21:31:26 IST" duration-ms="23194">
+    <test started-at="2023-08-02T09:40:11 IST" name="OnlineTest" finished-at="2023-08-02T09:40:36 IST" duration-ms="24798">
       <class name="demoPackage.AmazonTest">
-        <test-method signature="amazon()[pri:0, instance:demoPackage.AmazonTest@72d1ad2e]" started-at="2023-07-28T21:31:03 IST" name="amazon" finished-at="2023-07-28T21:31:26 IST" duration-ms="23104" status="PASS">
+        <test-method signature="amazon()[pri:0, instance:demoPackage.AmazonTest@72d1ad2e]" started-at="2023-08-02T09:40:11 IST" name="amazon" finished-at="2023-08-02T09:40:36 IST" duration-ms="24728" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazon -->
